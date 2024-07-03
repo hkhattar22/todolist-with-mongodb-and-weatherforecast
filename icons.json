@@ -1,0 +1,338 @@
+[
+    {
+      "code": 1000,
+      "day": "Sunny",
+      "night": "Clear",
+      "icon": 113,
+      "image": "https://i.pinimg.com/originals/53/22/c2/5322c2cad533e12e552d0dfdc89b4c25.png"
+    },
+    {
+      "code": 1003,
+      "day": "Partly cloudy",
+      "night": "Partly cloudy",
+      "icon": 116,
+      "image": "https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png"
+    },
+    {
+      "code": 1006,
+      "day": "Cloudy",
+      "night": "Cloudy",
+      "icon": 119,
+      "image": "https://cdn-icons-png.flaticon.com/512/7084/7084486.png"
+    },
+    {
+      "code": 1009,
+      "day": "Overcast",
+      "night": "Overcast",
+      "icon": 122,
+      "image": "https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/weather-overcast-512.png"
+    },
+    {
+      "code": 1030,
+      "day": "Mist",
+      "night": "Mist",
+      "icon": 143,
+      "image": "https://cdn-icons-png.flaticon.com/512/175/175872.png"
+    },
+    {
+      "code": 1063,
+      "day": "Patchy rain possible",
+      "night": "Patchy rain possible",
+      "icon": 176,
+      "image": "https://i.pinimg.com/564x/3c/80/e4/3c80e46a2c61887743e31415d12b012b.jpg"
+    },
+    {
+      "code": 1066,
+      "day": "Patchy snow possible",
+      "night": "Patchy snow possible",
+      "icon": 179,
+      "image": "https://cdn.icon-icons.com/icons2/571/PNG/512/cloud-with-snowflakes-weather-symbol_icon-icons.com_54692.png"
+    },
+    {
+      "code": 1069,
+      "day": "Patchy sleet possible",
+      "night": "Patchy sleet possible",
+      "icon": 182,
+      "image": "https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/cloud-sleet-512.png"
+    },
+    {
+      "code": 1072,
+      "day": "Patchy freezing drizzle possible",
+      "night": "Patchy freezing drizzle possible",
+      "icon": 185,
+      "image": "https://cdn2.iconfinder.com/data/icons/colorful-weather-forecast/256/sleet-512.png"
+    },
+    {
+      "code": 1087,
+      "day": "Thundery outbreaks possible",
+      "night": "Thundery outbreaks possible",
+      "icon": 200,
+      "image": "https://i.pinimg.com/564x/87/89/92/878992db9d41b6f15291b9c1e59474ca.jpg"
+    },
+    {
+      "code": 1114,
+      "day": "Blowing snow",
+      "night": "Blowing snow",
+      "icon": 227,
+      "image": "https://i.pinimg.com/564x/71/8e/50/718e50530a5effa263fe492b0f848aaa.jpg"
+    },
+    {
+      "code": 1117,
+      "day": "Blizzard",
+      "night": "Blizzard",
+      "icon": 230,
+      "image": "https://cdn-icons-png.flaticon.com/512/3752/3752475.png"
+    },
+    {
+      "code": 1135,
+      "day": "Fog",
+      "night": "Fog",
+      "icon": 248,
+      "image": "https://cdn-icons-png.flaticon.com/512/514/514240.png"
+    },
+    {
+      "code": 1147,
+      "day": "Freezing fog",
+      "night": "Freezing fog",
+      "icon": 260,
+      "image": "https://i.pinimg.com/564x/e5/63/0f/e5630f76d2e407a7a388ea5d22228fb4.jpg"
+    },
+    {
+      "code": 1150,
+      "day": "Patchy light drizzle",
+      "night": "Patchy light drizzle",
+      "icon": 263,
+      "image": "https://cdn3.iconfinder.com/data/icons/bebreezee-weather-symbols/690/icon-weather-sunrainlight-512.png"
+    },
+    {
+      "code": 1153,
+      "day": "Light drizzle",
+      "night": "Light drizzle",
+      "icon": 266,
+      "image": "https://cdn3.iconfinder.com/data/icons/bebreezee-weather-symbols/690/icon-weather-sunrainlight-512.png"
+    },
+    {
+      "code": 1168,
+      "day": "Freezing drizzle",
+      "night": "Freezing drizzle",
+      "icon": 281,
+      "image": "https://cdn-icons-png.flaticon.com/512/10790/10790855.png"
+    },
+    {
+      "code": 1171,
+      "day": "Heavy freezing drizzle",
+      "night": "Heavy freezing drizzle",
+      "icon": 284,
+      "image": "https://cdn-icons-png.freepik.com/512/10790/10790855.png"
+    },
+    {
+      "code": 1180,
+      "day": "Patchy light rain",
+      "night": "Patchy light rain",
+      "icon": 293,
+      "image": "https://cdn4.iconfinder.com/data/icons/weather-forecast-classic/512/light-rain-01-512.png"
+    },
+    {
+      "code": 1183,
+      "day": "Light rain",
+      "night": "Light rain",
+      "icon": 296,
+      "image": "https://cdn4.iconfinder.com/data/icons/weather-forecast-classic/512/light-rain-01-512.png"
+    },
+    {
+      "code": 1186,
+      "day": "Moderate rain at times",
+      "night": "Moderate rain at times",
+      "icon": 299,
+      "image": "https://cdn4.iconfinder.com/data/icons/weather-forecast-classic/512/light-rain-01-512.png"
+    },
+    {
+      "code": 1189,
+      "day": "Moderate rain",
+      "night": "Moderate rain",
+      "icon": 302,
+      "image": "https://cdn-icons-png.flaticon.com/512/1959/1959351.png"
+    },
+    {
+      "code": 1192,
+      "day": "Heavy rain at times",
+      "night": "Heavy rain at times",
+      "icon": 305,
+      "image": "https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather07-512.png"
+    },
+    {
+      "code": 1195,
+      "day": "Heavy rain",
+      "night": "Heavy rain",
+      "icon": 308,
+      "image": "https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather07-512.png"
+    },
+    {
+      "code": 1198,
+      "day": "Light freezing rain",
+      "night": "Light freezing rain",
+      "icon": 311,
+      "image": "https://cdn-icons-png.flaticon.com/512/10790/10790855.png"
+    },
+    {
+      "code": 1201,
+      "day": "Moderate or heavy freezing rain",
+      "night": "Moderate or heavy freezing rain",
+      "icon": 314,
+      "image": "https://cdn-icons-png.freepik.com/512/10790/10790855.png"
+    },
+    {
+      "code": 1204,
+      "day": "Light sleet",
+      "night": "Light sleet",
+      "icon": 317,
+      "image": "https://cdn-icons-png.flaticon.com/512/7084/7084507.png"
+    },
+    {
+      "code": 1207,
+      "day": "Moderate or heavy sleet",
+      "night": "Moderate or heavy sleet",
+      "icon": 320,
+      "image": "https://cdn-icons-png.flaticon.com/512/7084/7084507.png"
+    },
+    {
+      "code": 1210,
+      "day": "Patchy light snow",
+      "night": "Patchy light snow",
+      "icon": 323,
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/53/04/heavy-snow-shower-sleet-day-weather-forecast-vector-10145304.jpg"
+    },
+    {
+      "code": 1213,
+      "day": "Light snow",
+      "night": "Light snow",
+      "icon": 326,
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/53/04/heavy-snow-shower-sleet-day-weather-forecast-vector-10145304.jpg"
+    },
+    {
+      "code": 1216,
+      "day": "Patchy moderate snow",
+      "night": "Patchy moderate snow",
+      "icon": 329,
+      "image": "https://static.vecteezy.com/system/resources/previews/007/322/189/non_2x/heavy-snow-line-icon-vector.jpg"
+    },
+    {
+      "code": 1219,
+      "day": "Moderate snow",
+      "night": "Moderate snow",
+      "icon": 332,
+      "image": "https://static.vecteezy.com/system/resources/previews/007/322/189/non_2x/heavy-snow-line-icon-vector.jpg"
+    },
+    {
+      "code": 1222,
+      "day": "Patchy heavy snow",
+      "night": "Patchy heavy snow",
+      "icon": 335,
+      "image": "https://static.vecteezy.com/system/resources/previews/007/322/189/non_2x/heavy-snow-line-icon-vector.jpg"
+    },
+    {
+      "code": 1225,
+      "day": "Heavy snow",
+      "night": "Heavy snow",
+      "icon": 338,
+      "image": "https://static.vecteezy.com/system/resources/previews/007/322/189/non_2x/heavy-snow-line-icon-vector.jpg"
+    },
+    {
+      "code": 1237,
+      "day": "Ice pellets",
+      "night": "Ice pellets",
+      "icon": 350,
+      "image": "https://a0.anyrgb.com/pngimg/1186/118/ice-pellets-downpour-rain-and-snow-mixed-weather-icon-hail-meteorology-weather-forecasting-weather-rain-sun.png"
+    },
+    {
+      "code": 1240,
+      "day": "Light rain shower",
+      "night": "Light rain shower",
+      "icon": 353,
+      "image": "https://w7.pngwing.com/pngs/337/592/png-transparent-weather-rain-shower-storm-weather-color-icon.png"
+    },
+    {
+      "code": 1243,
+      "day": "Moderate or heavy rain shower",
+      "night": "Moderate or heavy rain shower",
+      "icon": 356,
+      "image": "https://cdn-icons-png.flaticon.com/512/4006/4006133.png"
+    },
+    {
+      "code": 1246,
+      "day": "Torrential rain shower",
+      "night": "Torrential rain shower",
+      "icon": 359,
+      "image": "https://w7.pngwing.com/pngs/337/592/png-transparent-weather-rain-shower-storm-weather-color-icon.png"
+    },
+    {
+      "code": 1249,
+      "day": "Light sleet showers",
+      "night": "Light sleet showers",
+      "icon": 362,
+      "image": "https://cdn.icon-icons.com/icons2/2791/PNG/512/sleet_day_weather_cloud_sun_rain_snow_icon_177557.png"
+    },
+    {
+      "code": 1252,
+      "day": "Moderate or heavy sleet showers",
+      "night": "Moderate or heavy sleet showers",
+      "icon": 365,
+      "image": "https://as1.ftcdn.net/v2/jpg/01/18/20/08/1000_F_118200855_8zWlAzYYtAJUzi2ZlXfNKzY5l1fUzF6y.jpg"
+    },
+    {
+      "code": 1255,
+      "day": "Light snow showers",
+      "night": "Light snow showers",
+      "icon": 368,
+      "image": "https://icons.veryicon.com/png/o/weather/weather-linear/weather-heavy-snow-4.png"
+    },
+    {
+      "code": 1258,
+      "day": "Moderate or heavy snow showers",
+      "night": "Moderate or heavy snow showers",
+      "icon": 371,
+      "image": "https://icons.veryicon.com/png/o/weather/weather-linear/weather-heavy-snow-4.png"
+    },
+    {
+      "code": 1261,
+      "day": "Light showers of ice pellets",
+      "night": "Light showers of ice pellets",
+      "icon": 374,
+      "image": "https://cdn1.iconfinder.com/data/icons/weather-forecast-meteorology-color-1/128/weather-hail-512.png"
+    },
+    {
+      "code": 1264,
+      "day": "Moderate or heavy showers of ice pellets",
+      "night": "Moderate or heavy showers of ice pellets",
+      "icon": 377,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJDtVkJtcRlJIveOka1_A0JxoMivyIP7FzA&s"
+    },
+    {
+      "code": 1273,
+      "day": "Patchy light rain with thunder",
+      "night": "Patchy light rain with thunder",
+      "icon": 386,
+      "image": "https://static-00.iconduck.com/assets.00/lightrainthunder-night-icon-2048x2048-qtkvr98x.png"
+    },
+    {
+      "code": 1276,
+      "day": "Moderate or heavy rain with thunder",
+      "night": "Moderate or heavy rain with thunder",
+      "icon": 389,
+      "image": "https://i.pinimg.com/564x/87/89/92/878992db9d41b6f15291b9c1e59474ca.jpg"
+    },
+    {
+      "code": 1279,
+      "day": "Patchy light snow with thunder",
+      "night": "Patchy light snow with thunder",
+      "icon": 392,
+      "image": "https://cdn.icon-icons.com/icons2/3189/PNG/512/blizzard_snow_lightning_thunder_storm_weather_clouds_cloudy_snowflakes_icon_194200.png"
+    },
+    {
+      "code": 1282,
+      "day": "Moderate or heavy snow with thunder",
+      "night": "Moderate or heavy snow with thunder",
+      "icon": 395,
+      "image": "https://cdn.icon-icons.com/icons2/3189/PNG/512/blizzard_snow_lightning_thunder_storm_weather_clouds_cloudy_snowflakes_icon_194200.png"
+    }
+  ]
